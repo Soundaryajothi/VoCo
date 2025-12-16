@@ -47,8 +47,10 @@ In app voice based guide available.
 
 <img width="912" height="525" alt="image" src="https://github.com/user-attachments/assets/ac040d31-b725-4787-8aa6-c4ff681c6036" />
 
+# Sample Output:
 
-
-
+<img width="1082" height="597" alt="image" src="https://github.com/user-attachments/assets/c896344c-2589-4d63-8d3e-e0246a3083c3" />
+<img width="1026" height="597" alt="image" src="https://github.com/user-attachments/assets/6b8bce7e-7bb7-4fcc-adfe-1129ca127358" />
+<img width="499" height="616" alt="Screenshot 2025-12-16 122947" src="https://github.com/user-attachments/assets/fbf1cae9-ad06-4dc9-8385-9ea23d5267e3" />
 
 🙏 THANK YOU 🙏
